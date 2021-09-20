@@ -14,7 +14,7 @@
     </parent>
     <groupId>guru.springframework</groupId>
     <artifactId>SFG-Pet-Clinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>SFG-Pet-Clinic</name>
     <description>SFG-Pet-Clinic</description>
     <properties>
@@ -53,6 +53,6 @@
         <developerConnection>
             scm:git:https://github.com/ZHU-MONEY/SFG-Pet-Clinic.git
         </developerConnection>
-      <tag>HEAD</tag>
+      <tag>SFG-Pet-Clinic-0.0.2</tag>
   </scm>
 </project>
